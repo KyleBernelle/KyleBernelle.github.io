@@ -14,8 +14,6 @@ tagline: Github Pages
 
 author:
   name: Kyle Bernelle
-  # sets the `author.url` property. helps Google to disambiguate the correct author of articles
-  url: https://github.com/KyleBernelle/
 
 # URL to a site-wide logo (e.g.: /assets/your-company-logo.png)
 #logo:
