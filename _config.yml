@@ -12,9 +12,6 @@ title: RoA2 Test
 # subtitle
 tagline: Github Pages
 
-# protocol & hostname for your site (it does not end with a '/')
-url: https://kylebernelle.github.io
-
 author:
   name: Kyle Bernelle
   # sets the `author.url` property. helps Google to disambiguate the correct author of articles
