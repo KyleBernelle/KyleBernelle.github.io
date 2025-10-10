@@ -4,37 +4,20 @@ theme: jekyll-theme-minimal
 
 lang: en
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-
 # main title
 title: RoA2 Test
 
-# subtitle
-tagline: Github Pages
-
-author:
-  name: Kyle Bernelle
+# author
+author: Kyle Bernelle
 
 # end of `jekyll-seo-tag` settings
 
-# color scheme setting
-# note: empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark
-# and light on the bottom left of the sidebar.
-# available options: light, dark
 theme_mode: dark
 
 paginate: 10
 
 # base URL of your site
 url: https://roa2testsite.com
-
-# default site-wide value for all pages
-defaults:
-  - scope:
-      path: "" # empty string means all files
-    values:
-      seo_description_max_words: 200
 
 # ------------ following options are not recommended to be modified ------------------
 
