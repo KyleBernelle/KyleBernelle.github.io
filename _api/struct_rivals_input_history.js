@@ -1,0 +1,28 @@
+var struct_rivals_input_history =
+[
+    [ "AdvanceInputBuffer", "struct_rivals_input_history.html#a8942e8d082671f472f07277253c096c4", null ],
+    [ "ClearHeldDuration", "struct_rivals_input_history.html#a14b8e19431a6d63a4e193f37ceab93bf", null ],
+    [ "ClearInputBuffer", "struct_rivals_input_history.html#a701c3b3001b97ad29610d38124b794f9", null ],
+    [ "ClearInputsDown", "struct_rivals_input_history.html#a31758241c02d6541a59e4e30f51dab0c", null ],
+    [ "ConsumeInputPressed", "struct_rivals_input_history.html#a84436a7192eebc20da56dffa54b6e513", null ],
+    [ "GetActionPressed", "struct_rivals_input_history.html#a529d972f4be876f0360fe52ac0d2638d", null ],
+    [ "GetCurrentActionHeldDuration", "struct_rivals_input_history.html#a5787fb43d2c56a724981e661b28a6b10", null ],
+    [ "GetInputsDown", "struct_rivals_input_history.html#a6f875c52556c9d1873b1a713faf837ab", null ],
+    [ "GetInputsPressed", "struct_rivals_input_history.html#ada063ae636cc67d03ffac270776eab98", null ],
+    [ "GetJoystickPosition", "struct_rivals_input_history.html#a7a0296c13bd5a502d26329ec6800989c", null ],
+    [ "GetPreviousInput", "struct_rivals_input_history.html#a69790357cd1d6780c37b46aac1819ca6", null ],
+    [ "GetRightStickPosition", "struct_rivals_input_history.html#ae2ebd52b5b6376e7cd01b8e61b285834", null ],
+    [ "IncrementHeldDuration", "struct_rivals_input_history.html#a00e18f32193e93bbdad15d090ecd7fcd", null ],
+    [ "IsInputDown", "struct_rivals_input_history.html#a3f7759b06ec7678104349d21d3dfe011", null ],
+    [ "IsInputLocked", "struct_rivals_input_history.html#abe611b54f56798cf080176182f5c0247", null ],
+    [ "PeekInputPressed", "struct_rivals_input_history.html#aedc6eee40f8d0d67b4ebfdf81e3e1089", null ],
+    [ "RestoreConsumedInput", "struct_rivals_input_history.html#aafebde5cb9788072b70d2b82b51de22b", null ],
+    [ "SetActionDown", "struct_rivals_input_history.html#ab25f5ece5a4cd77c710402a816769365", null ],
+    [ "SetActionLocked", "struct_rivals_input_history.html#ae9e784a554b3cc72cb867a2444690ec4", null ],
+    [ "SetActionPressed", "struct_rivals_input_history.html#a7bf1e42883e8544b4fa82ab9febc7b9d", null ],
+    [ "SetJoystickPosition", "struct_rivals_input_history.html#aa5ac5b4d7818a83e542cec5afe2e4820", null ],
+    [ "SetJoystickPositionTest", "struct_rivals_input_history.html#afeda90c5e41b30e047569fe587e95d71", null ],
+    [ "SetPreviousInput", "struct_rivals_input_history.html#ac97835ccfa2f49a42795227865e3c2ae", null ],
+    [ "SetRightStickPosition", "struct_rivals_input_history.html#ae26d0a5ba8489886fde305a90137ac55", null ],
+    [ "UpdateInputsPressed", "struct_rivals_input_history.html#a80e190c678b5c05dd69a70da81183b9f", null ]
+];

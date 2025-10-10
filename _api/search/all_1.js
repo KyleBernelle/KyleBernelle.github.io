@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['backwarddown_0',['BackwardDown',['../group___enums.html#gga331984dd9b7b9b5ccd8e071155438ae4ab5cd3cf5b67bb90ce0378d9a423daeaa',1,'Intermediate.h']]],
+  ['bair_1',['Bair',['../group___enums.html#gga46f502e356d656f57d7231b7fb531625ab284e0847c98647deb0bfffcf2761bc1',1,'Bair:&#160;Intermediate.h'],['../group___enums.html#gga800fb762209c2a5a620beeb4b402b332ab284e0847c98647deb0bfffcf2761bc1',1,'Bair:&#160;Intermediate.h']]],
+  ['baseknockback_2',['BaseKnockback',['../struct_rivals_hitbox_on_hit_properties.html#a9db28575e95f067fd6ee94c307a527e8',1,'RivalsHitboxOnHitProperties']]],
+  ['bautofloorhuggable_3',['bAutoFloorhuggable',['../struct_rivals_advanced_hitbox_on_hit_properties.html#aadcbe0e89abec1380c69793fd8baf261',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bcanreverse_4',['bCanReverse',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a40848e201cea889ab701edbf7bd5c4ec',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bforceflinch_5',['bForceFlinch',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a493ac851d17aac37d4e7f09abf072281',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bforceknockbackinknockdown_6',['bForceKnockbackInKnockdown',['../struct_rivals_advanced_hitbox_on_hit_properties.html#ad4acccbb3137033ea90f12eee6e2bda3',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bhasairdodge_7',['bHasAirDodge',['../struct_rivals_movement_data.html#ac624be0a37f7b9518e135800d753ae6b',1,'RivalsMovementData']]],
+  ['bignoresweight_8',['bIgnoresWeight',['../struct_rivals_advanced_hitbox_on_hit_properties.html#aed65d1b2a7b35d0329b6ce2edddee43c',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bistemporary_9',['bIsTemporary',['../struct_rivals_hurtbox_info.html#aed3bc6db99e789e666523f1dfa0877f3',1,'RivalsHurtboxInfo']]],
+  ['bouncehorizontally_10',['BounceHorizontally',['../class_rivals_article_entity.html#ab94d1087c7ac20263e8de90d2525200d',1,'RivalsArticleEntity']]],
+  ['bouncevertically_11',['BounceVertically',['../class_rivals_article_entity.html#a43fbb156c47717dbfb12fbf0a5059b02',1,'RivalsArticleEntity']]],
+  ['bpreservefacing_12',['bPreserveFacing',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a6ee4afd6a409658da3bad184cb18a71b',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['bthrow_13',['Bthrow',['../group___enums.html#gga46f502e356d656f57d7231b7fb531625a4f92738b11bb21e8d7c708465933046c',1,'Bthrow:&#160;Intermediate.h'],['../group___enums.html#gga800fb762209c2a5a620beeb4b402b332a4f92738b11bb21e8d7c708465933046c',1,'Bthrow:&#160;Intermediate.h']]],
+  ['burn_14',['Burn',['../group___enums.html#gga47fc160affb5ddd0ee10d0df88504c36a11635778f116ce6922f6068638a39028',1,'Intermediate.h']]],
+  ['burnconsume_15',['BurnConsume',['../group___enums.html#gga47fc160affb5ddd0ee10d0df88504c36a3fd839ed62d8cf1db606778b80fd005f',1,'Intermediate.h']]]
+];

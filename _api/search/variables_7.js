@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['hitboxattributes_0',['HitboxAttributes',['../struct_rivals_active_hitbox.html#a74162c49c36c05a0b684200f52ceecf0',1,'RivalsActiveHitbox']]],
+  ['hitboxdurationinframes_1',['HitboxDurationInFrames',['../struct_rivals_active_hitbox.html#a4c446a75f8b92a5b1b945940751c8af1',1,'RivalsActiveHitbox']]],
+  ['hitboxid_2',['HitboxID',['../struct_rivals_active_hitbox.html#acf54ea21a7ef2cf671b4a58b16eeb20d',1,'RivalsActiveHitbox']]],
+  ['hitboxlocation_3',['HitboxLocation',['../struct_rivals_active_hitbox.html#a6dce7fdc1d3eaace6d3db236cc8e71ba',1,'RivalsActiveHitbox']]],
+  ['hitboxlocationprev_4',['HitboxLocationPrev',['../struct_rivals_active_hitbox.html#ad0d060e68c7acb5505a5320002c93cf5',1,'RivalsActiveHitbox']]],
+  ['hitboxonhitproperties_5',['HitboxOnHitProperties',['../struct_rivals_active_hitbox.html#a013d3e1528cdb185393d57a7111f8e12',1,'RivalsActiveHitbox']]],
+  ['hitdistancesquared_6',['HitDistanceSquared',['../struct_rivals_platform_trace_result.html#a7b440777d646e0c02042c35a05202794',1,'RivalsPlatformTraceResult']]],
+  ['hiteffectname_7',['HitEffectName',['../struct_rivals_hitbox_on_hit_properties.html#a88b9c6fa482c986624925816c023f33d',1,'RivalsHitboxOnHitProperties']]],
+  ['hitfallhitstunmultiplier_8',['HitfallHitstunMultiplier',['../struct_rivals_advanced_hitbox_on_hit_properties.html#ae4364e13f4e86fb22c05f8206011f613',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitlocation_9',['HitLocation',['../struct_rivals_platform_trace_result.html#a9dba510f8d09b12a82b728a4cc1f2db4',1,'RivalsPlatformTraceResult']]],
+  ['hitnormal_10',['HitNormal',['../struct_rivals_platform_trace_result.html#acfd14d47d4cfce854bf7015a2f012f8a',1,'RivalsPlatformTraceResult']]],
+  ['hitpausemovementoffsetfromhost_11',['HitpauseMovementOffsetFromHost',['../struct_rivals_advanced_hitbox_on_hit_properties.html#aaedf3e3cb0606baa376aaf3d57f85ff5',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitpausemovementstrength_12',['HitpauseMovementStrength',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a86b4881ebcd2f9179246636fec937525',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitpausemovementtype_13',['HitpauseMovementType',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a66537e7d574d33c26e5a75f946b9d04a',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitpausemultiplier_14',['HitpauseMultiplier',['../struct_rivals_advanced_hitbox_on_hit_properties.html#aa0a2fec26bdca96310fa7e58b22f3751',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitpauseremaining_15',['HitpauseRemaining',['../class_rivals_gameplay_entity.html#a8858bfa7127ec285f345a6119f34fb0d',1,'RivalsGameplayEntity']]],
+  ['hitplatformentityindex_16',['HitPlatformEntityIndex',['../struct_rivals_platform_trace_result.html#a4e093392fdf11f071c13c886d804bd59',1,'RivalsPlatformTraceResult']]],
+  ['hitsegmentid_17',['HitSegmentID',['../struct_rivals_platform_trace_result.html#a7019c6f653d4d45e8065a590657ee767',1,'RivalsPlatformTraceResult']]],
+  ['hitsoundname_18',['HitSoundName',['../struct_rivals_hitbox_on_hit_properties.html#ac9d8a6aae666c6780a96c579bebcea29',1,'RivalsHitboxOnHitProperties']]],
+  ['hitstunanimationstateoverride_19',['HitstunAnimationStateOverride',['../struct_rivals_advanced_hitbox_on_hit_properties.html#ab81ee85e4240e58d04b37a740e3e7fdd',1,'RivalsAdvancedHitboxOnHitProperties']]],
+  ['hitstunmultiplier_20',['HitstunMultiplier',['../struct_rivals_advanced_hitbox_on_hit_properties.html#a72b914ec4a5206e46f05de01d8fbc5b7',1,'RivalsAdvancedHitboxOnHitProperties']]]
+];
