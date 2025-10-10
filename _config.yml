@@ -15,9 +15,6 @@ tagline: Github Pages
 author:
   name: Kyle Bernelle
 
-# URL to a site-wide logo (e.g.: /assets/your-company-logo.png)
-#logo:
-
 # end of `jekyll-seo-tag` settings
 
 # color scheme setting
@@ -30,7 +27,7 @@ theme_mode: dark
 paginate: 10
 
 # base URL of your site
-baseurl: ""
+url: https://roa2testsite.com
 
 # default site-wide value for all pages
 defaults:
