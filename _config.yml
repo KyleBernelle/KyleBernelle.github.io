@@ -1,0 +1,17 @@
+title: "Rivals of Aether 2 Modkit Documentation"
+about: "Official guides and API reference for the Rivals of Aeither 2 Modkit."
+
+markdown: kramdown
+future: true
+timezone: America/New_York
+
+legal: "© Someone, all rights reserved."
+
+collections:
+  pages:
+    output: true
+    permalink: :topic/:title
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
